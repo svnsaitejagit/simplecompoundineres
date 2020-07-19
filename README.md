@@ -1,1 +1,1 @@
-# simplecompoundinrterest
+# simplecompoundinterest
